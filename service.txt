@@ -1,0 +1,13 @@
+thera are mainly three types of types of services 
+ IAAS : Infrastructure as a services
+ PAAS : Platform as a services
+ SAAS : Software as a services
+ 
+ we can also say that 
+ IAAS < PAAS < SAAS
+  
+  its like IASS includes network, server, and such
+  PAAS includes IASS and platform to run some allpication also 
+  SAAS include PAAS and application an dpresentation 
+  
+  These are like layers of OSI models which contains some diffferent services which are used in AWS

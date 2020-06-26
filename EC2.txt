@@ -1,0 +1,16 @@
+what is EC2 instances: it is nothing but a virtual server , in Azure it is called virtual machine an da server but in AWS it is named as instances
+we can get server as per our need , and we can ch
+ange its value as per our need
+EC2 : Elastic Compute Cloud - as name suggests elatic means it is scalable when u need u can increase size and at no need u can decrease it
+
+there are basically 7 types of it;
+
+1. general purpose instance
+2. compute optmized instance
+3. memory optimized instances ; there are differnet sries in this like ; D H I and they have some different number
+4. storage optimized instances; R X Z ; which ever instances strat from this letter are comes in storage optimized instances
+5. accelerated compute instances ; F ,P ,G ;F for FPGA whch is widely used in DSP image processing and we can say that in live strmaing like facebook live etc
+6. high memory optimized instances
+7. previous memory instaces ; which are out dated now or not much more in use
+
+

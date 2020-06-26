@@ -1,0 +1,7 @@
+create AWS account 
+
+login as root user > services > storage > s3 >create bucket >add photo or any documnet and upload
+duriong that we have to give different right and all for public and owner
+For public access first you have to give right to that bucket and then upload a document and give right it that pertricular document
+EX. 
+https://jwal.s3.us-east-2.amazonaws.com/fd34dc13-7c93-4581-8ff2-ae4d67cce34b.jpg
