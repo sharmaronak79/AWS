@@ -1,3 +1,7 @@
 Supporting service of server
 
-Website + ses + sqs + lambda + 
+Website + ses + sqs + lambda + s3 bucket
+
+I.e we can upload any document and lambda gives confirmation e mail 
+We can change its folder or move by that email reply as well which is done by lambda 
+This is how it is used 
