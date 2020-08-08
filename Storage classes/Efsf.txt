@@ -1,0 +1,4 @@
+EFS is elastic file storage 
+
+It is used to store data in a file format
+It is also similar as S3
