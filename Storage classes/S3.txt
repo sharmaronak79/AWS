@@ -3,3 +3,6 @@ S3 is a simple storage services
 It is a standard storage 
 Very quick to access
 Fast access
+
+
+We can give permission as our need and give access to whom we want to access
