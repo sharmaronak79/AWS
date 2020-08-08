@@ -1,1 +1,5 @@
 S3 is a simple storage services
+
+It is a standard storage 
+Very quick to access
+Fast access
