@@ -1,0 +1,1 @@
+Ebs stands for elastic block storage
