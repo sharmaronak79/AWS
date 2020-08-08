@@ -1,0 +1,7 @@
+Glacier is used to store large data
+
+It has limited period of time to store mac up to 90 days
+It is also used to save large data 
+Meta data as well
+Now metadata is nothing but the data with detail
+In metadata we can get its detail like key and version
